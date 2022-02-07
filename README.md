@@ -1,4 +1,4 @@
-# progress-steps
+# INFO
 https://marcinrataj.github.io/progress-steps/
 
 It is a small progress slider that is used on websites where we buy something and we have 4 stages that we go through to get to the end.
